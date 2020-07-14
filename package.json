@@ -1,0 +1,17 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "Wir create a npm-project and add test in it using jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Solovyeva Elena",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "babel-jest": "^26.1.0",
+    "jest": "^26.1.0"
+  }
+}
